@@ -8,8 +8,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,git,github,cs,dotnet,visualstudio,mysql" />
   </a>
 
-### Look at the Graph:
+### Look at the Graphs:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hameedullah-Asadi3300&show_icons=true&theme=merko)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hameedullah-Asadi3300&exclude_repo=github-readme-stats,Hameedullah-Asadi3300.github.io)](https://github.com/Hameedullah-Asadi3300/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hameedullah-Asadi3300&layout=compact)](https://github.com/Hameedullah-Asadi3300/github-readme-stats)
