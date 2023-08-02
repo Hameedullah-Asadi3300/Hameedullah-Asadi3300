@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 
-I love frontend developing and fluent in followings:
+I love frontend developing and fluent in followings languages and tools.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,git,github,cs,dotnet,visualstudio" />
