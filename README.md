@@ -7,3 +7,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,git,github,cs,dotnet,visualstudio,mysql" />
   </a>
+
+### Look at the Graph:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
