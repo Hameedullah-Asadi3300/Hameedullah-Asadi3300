@@ -39,7 +39,8 @@ Done Button:Each task has a functional button as well. You can delete any tasks 
 ![image](https://github.com/Hameedullah-Asadi3300/to-do-app/assets/123219655/c44d2ba8-6514-4f06-b6bf-676987d15403)
 
 ## A few notes:
-1: This app is developed using react library and pure JavaScript code.
+
+1: This app is developed using react library and pure JavaScript code
 
 2: This app includes pure CSS code with .module.css styling method.
 
