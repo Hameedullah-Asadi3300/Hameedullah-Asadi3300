@@ -13,8 +13,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hameedullah-Asadi3300&layout=compact)](https://github.com/Hameedullah-Asadi3300/github-readme-stats)
 
-### Project
-# to-do-app
+## Project
+## to-do-app
 This repo contains a to-do-app developed using JavaScript, React library.
 
 fork the repo, change the directory to the forked location using CLI or VS COde termainl. Run npm start
