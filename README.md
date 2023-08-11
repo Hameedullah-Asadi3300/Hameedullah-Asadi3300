@@ -9,9 +9,8 @@
   </a>
 
 
-## Project
-## to-do-app
-This repo contains a to-do-app developed using JavaScript, React library.
+## Project - to-do-app
+The to-do-app repo contains a to-do-app developed using JavaScript, React library.
 
 fork the repo, change the directory to the forked location using CLI or VS COde termainl. Run npm start
 and the app will run on your local host using port either 3000 or 3001 such as: http://localhost:3001/
