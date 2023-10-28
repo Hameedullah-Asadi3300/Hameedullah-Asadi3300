@@ -10,7 +10,7 @@
 
 
 ## Project - to-do-app
-The to-do-app repo contains a to-do-app developed using JavaScript, React library.
+The to-do-app repo contains a to-do-app developed using JavaScript, React library. It is up and here is the link: https://to-do-app-coral-eight.vercel.app/
 
 fork the repo, change the directory to the forked location using CLI or VS COde termainl. Run npm start
 and the app will run on your local host using port either 3000 or 3001 such as: http://localhost:3001/
