@@ -27,10 +27,9 @@ I have coded my resume om homepage. It is also accessible through button. Click 
 The website contains a nice footer with react-icons.
 ![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/02c17826-3339-4c75-8d29-772610cf09f4)
 I have also included a few articles of mine on coding which is accesible from Articles page. It is fully functional with read more and read less buttons.
-![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/de8eddf5-4f7b-49c0-b707-20a3080a3008)
 On Projects page, all the projects are accessible with the source code. Click each project and it will redirect you to the respective projects.
-
-
+![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/de8eddf5-4f7b-49c0-b707-20a3080a3008)
+It is contact page requires First Name, Last Name, Email Address, Phone Number and with a text aread for the message.
 ![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/ed7b04ed-952b-46b8-b3e9-28a45c186fe3)
 
 
