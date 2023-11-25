@@ -14,6 +14,18 @@ The portolio website is up and here it the link for it: https://portfolio-websit
 The source code is also available on my github account and here is the link for it: https://github.com/Hameedullah-Asadi3300/Portfolio-website-update
 ## Overview: Homepage
 ![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/913442cb-5615-4648-a052-91ddac9ff32e)
+In home page you will find the navigation bar with five menu:
+  1. Home
+  2. About
+  3. Articles
+  4. Projects
+  5. Contact
+My personal GitHub and Linked in projects are accessible from the homepage.
+I have also given a short summary on homepage:
+![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/3af0c4ce-a3d1-40a3-8d8a-a517720411f2)
+I have coded my resume om homepage. It is also accessible through button. Click the button and get the copy of it in PDF.
+The website contains a nice footer with react-icons.
+![image](https://github.com/Hameedullah-Asadi3300/Hameedullah-Asadi3300/assets/123219655/02c17826-3339-4c75-8d29-772610cf09f4)
 
 
 
